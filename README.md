@@ -11,3 +11,9 @@ rester dans un coté sobre pas beaucoup de couleur
 ![animation](./img/animation1.gif)
 faire une petite animation cm celle ci mais en mettant mon nom.
 
+![animation](./img/animation2.gif)
+peut-etre commencer comme ca? en mettant mon nom, ligne de chargement.
+
+![typo](./img/styleTypo)
+utiliser une police fine a certain endroit style bodoni
+
