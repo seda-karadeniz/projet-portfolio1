@@ -4,3 +4,6 @@ project for web design course.
 url for the deposit : https://github.com/hepl-dw/projet-portfolio
 
 ## Inpiration 
+![inspiration style de la page](img/couleurs.png)
+
+
