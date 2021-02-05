@@ -14,6 +14,6 @@ faire une petite animation cm celle ci mais en mettant mon nom.
 ![animation](./img/animation2.gif)
 peut-etre commencer comme ca? en mettant mon nom, ligne de chargement.
 
-![typo](./img/styleTypo)
+![typo](./img/styleTypo.PNG)
 utiliser une police fine a certain endroit style bodoni
 
