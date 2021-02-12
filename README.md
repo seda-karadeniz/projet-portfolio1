@@ -10,16 +10,46 @@ url for the deposit : https://github.com/hepl-dw/projet-portfolio
 
 rester dans un coté sobre pas beaucoup de couleur
 
+### Animation 
 
 ![animation](./img/animation1.gif)
 
-faire une petite animation cm celle ci mais en mettant mon nom.
+faire une petite animation de ce style pour mettre mon nom en valeur
 
 ![animation](./img/animation2.gif)
 
 peut-etre commencer comme ca? en mettant mon nom, ligne de chargement.
 
-![typo](./img/styleTypo.PNG)
+![animation](./img/animation8.PNG)
 
-utiliser une police fine a certain endroit style bodoni
+la ligne qui se crée au survol du mot de la liste
+
+
+![animation](./img/animation6.PNG)
+
+![animation](./img/animation7.PNG)
+
+j'aime vraiment bcp le ft que quelque chose suit la fleche, je trouve que ca peut ramener vraiment qeulque chose de beau, surtout que je ne veux pas trop charger ma page d'element j'aime quand il n'ya pas bcp de chose, et je pense que ca peut etre bien ca permetrais de ne pas avoir une impression que la page soit vide, comme par exemple dans l'animation juste ci-dessus, quand j'ai visiter cette page internet sans l'animation on peux avoir une impression de trop vide, mais gràce a cette animmation je ne l'ai vraiment pas senti, et je trouve ca beau
+
+
+![animation](./img/animation8.PNG)
+le principe que les images s'assombrissent ou s'éclairsivent légerment au survol, ca change des images qui s'agrandissent.
+
+### Typographie
+
+![font](./img/styleTypo.PNG)
+
+utiliser une police fine a certain endroit style bodoni ou bien script 
+
+![font](./img/font.PNG)
+![font](./img/font3.PNG)
+
+Voir une police unpeu de se style j'aime bcp les R et egalement le fait que les lettres soit assez fine
+
+![font](./img/vertical.PNG)
+
+Dans cette image ci je trouve sympa qu'il y ait un text placer à la vertical. surtout quand tout est poser comme ca horizontalement, ca vient unpeu casser le truc.
+
+
+
 
