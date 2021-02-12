@@ -20,19 +20,20 @@ faire une petite animation de ce style pour mettre mon nom en valeur
 
 peut-etre commencer comme ca? en mettant mon nom, ligne de chargement.
 
-![animation](./img/animation8.PNG)
+![animation](./img/animation8.gif)
 
 la ligne qui se crée au survol du mot de la liste
 
 
-![animation](./img/animation6.PNG)
+![animation](./img/animation6.gif)
 
-![animation](./img/animation7.PNG)
+![animation](./img/animation7.gif)
 
 j'aime vraiment bcp le ft que quelque chose suit la fleche, je trouve que ca peut ramener vraiment qeulque chose de beau, surtout que je ne veux pas trop charger ma page d'element j'aime quand il n'ya pas bcp de chose, et je pense que ca peut etre bien ca permetrais de ne pas avoir une impression que la page soit vide, comme par exemple dans l'animation juste ci-dessus, quand j'ai visiter cette page internet sans l'animation on peux avoir une impression de trop vide, mais gràce a cette animmation je ne l'ai vraiment pas senti, et je trouve ca beau
 
 
-![animation](./img/animation8.PNG)
+![animation](./img/animation8.gif)
+
 le principe que les images s'assombrissent ou s'éclairsivent légerment au survol, ca change des images qui s'agrandissent.
 
 ### Typographie
