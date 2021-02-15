@@ -9,6 +9,7 @@
 
 ### La page des projets 
 - avoir tous mes projets 
+-- une images et une description pour chaque projet
 
 ### La page de contact 
 - formulaire de contact
