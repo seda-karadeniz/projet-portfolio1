@@ -7,4 +7,4 @@
 
 ---
 
-[Moodboard] (./moodboard.md) 
+[Moodboard] (https://github.com/seda-karadeniz/projet-portfolio/blob/main/moodboard.md) 
