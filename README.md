@@ -1,16 +1,18 @@
 # projet-portfolio
 > student at Haute Ecole de la Province de Liège (HEPL) based in Liege, Belgium .
 
-project for web design course.
+>project for web design course.
 
-url for the deposit : https://github.com/hepl-dw/projet-portfolio
+>url for the deposit : https://github.com/hepl-dw/projet-portfolio
 
 ## Inpiration 
 ![inspiration style de la page](./img/couleurs.PNG)
 
 rester dans un coté sobre pas beaucoup de couleur
 
+
 ### Animation 
+---
 
 ![animation](./img/animation1.gif)
 
@@ -37,6 +39,7 @@ j'aime vraiment bcp le ft que quelque chose suit la fleche, je trouve que ca peu
 le principe que les images s'assombrissent ou s'éclairsivent légerment au survol, ca change des images qui s'agrandissent.
 
 ### Typographie
+---
 
 ![font](./img/styleTypo.PNG)
 
