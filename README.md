@@ -7,4 +7,4 @@
 
 ---
 
-(https://github.com/seda-karadeniz/projet-portfolio/blob/main/moodboard.md "moodboard") 
+[moodboard](https://github.com/seda-karadeniz/projet-portfolio/blob/main/moodboard.md "moodboard") 
