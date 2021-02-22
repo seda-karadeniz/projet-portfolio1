@@ -12,19 +12,6 @@
 [Plan du site](./plan.md "plan du site") 
 
 ---
-## Liens utiles
-
-
-[Awwwards](https://www.awwwards.com/) 
-
-[Wallonie Design](http://walloniedesign.be/) 
-
-[Dribble](https://dribbble.com/) 
-
-[Behance](https://www.behance.net/) 
-
-[CSS Design Awards](https://www.cssdesignawards.com/) 
-
 ## strategie
 ### Objectif 
 site web qui doit donner envie aux employeurs de me prendre dans leur équipe, ou meme si je me lance en tant qu'indépendante ce site doit donner envie de faire appel à mes compétences pour leurs projets.\
@@ -46,3 +33,17 @@ Dans mon portfolio, on doit y retrouver :
   - un inpt de type texte où la personne mettrai le sujet 
   - un textarea pour le message
   - un btn de type submit
+
+## Liens utiles
+
+
+[Awwwards](https://www.awwwards.com/) 
+
+[Wallonie Design](http://walloniedesign.be/) 
+
+[Dribble](https://dribbble.com/) 
+
+[Behance](https://www.behance.net/) 
+
+[CSS Design Awards](https://www.cssdesignawards.com/) 
+
