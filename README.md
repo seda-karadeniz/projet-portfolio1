@@ -20,7 +20,11 @@ Dans mon portfolio, on doit y retrouver :
 #### La page accueil 
 - barre de navigation avec toutes les pages,
 - mon nom, ce que je fais (web dev), petit texte descriptif
-- en dessous avoir une section avec mes mes projets où j’en présenterais quelque uns, CTA qui mene vers la page des projets
+- proposer changement de langue
+- au scroll de la page les éléments viennent un par un, unpeu comme un glissement (les sections ci dessous)
+  - avoir une section avec mes mes projets où j’en présenterais quelque uns, CTA qui mene vers la page des projets
+ 
+  - avoir une section aevc tous mes reseaux sociaux
 
 #### La page des projets 
 - avoir tous mes projets 
