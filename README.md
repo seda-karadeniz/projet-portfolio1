@@ -22,7 +22,7 @@ Dans mon portfolio, on doit y retrouver :
 - mon nom, ce que je fais (web dev), petit texte descriptif
 - proposer changement de langue
 - au scroll de la page les éléments viennent un par un, unpeu comme un glissement (les sections ci dessous)
-  - avoir une section avec mes mes projets où j’en présenterais quelque uns, CTA qui mene vers la page des projets
+  - avoir une section avec mes mes projets où j’en présenterais quelque uns, CTA qui mene vers la page des projets ( section importante, montrer certains de mes projet pour donner envie de voir plus)
     - il y aura (pour chaque projet) une image ainsi qu'une description du projet, les langages utilisé. Au clique, envoi vers mon projet  (une petite animation est prevu, pour que tout le monde puisse comprendre que c'est cliquable (un lien), par exemple un leger agrandissement, ou un leger mouvement vers le haut,...)
  
   - avoir une section aevc tous mes reseaux sociaux
