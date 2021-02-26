@@ -6,11 +6,7 @@
 >url for the deposit : https://github.com/hepl-dw/projet-portfolio
 
 ---
-
-[Moodboard](./moodboard.md "moodboard") 
-
-[Plan du site](./plan.md "plan du site") 
-
+## [Moodboard](https://app.milanote.com/1Ld0gG1QVmEN5z/portfolio)
 ---
 ## strategie
 ### Objectif 
