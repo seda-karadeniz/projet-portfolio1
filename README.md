@@ -23,12 +23,13 @@ Dans mon portfolio, on doit y retrouver :
 - proposer changement de langue
 - au scroll de la page les éléments viennent un par un, unpeu comme un glissement (les sections ci dessous)
   - avoir une section avec mes mes projets où j’en présenterais quelque uns, CTA qui mene vers la page des projets
+    - il y aura (pour chaque projet) une image ainsi qu'une description du projet, les langages utilisé. Au clique, envoi vers mon projet  (une petite animation est prevu, pour que tout le monde puisse comprendre que c'est cliquable (un lien), par exemple un leger agrandissement, ou un leger mouvement vers le haut,...)
  
   - avoir une section aevc tous mes reseaux sociaux
 
 #### La page des projets 
 - avoir tous mes projets 
--- une images et une description pour chaque projet
+  - une images et une description (pourquoi, comment, pour qui j'ai réalisé le projet) pour chaque projet. Au clique, envoi vers mon projet  (une petite animation est prevu, pour que tout le monde puisse comprendre que c'est cliquable (un lien), par exemple un leger agrandissement, ou un leger mouvement vers le haut, un assombrissement (de l'image et de la description), ...)
 
 #### La page de contact 
 - formulaire de contact
